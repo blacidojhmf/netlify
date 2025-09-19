@@ -1,17 +1,27 @@
 [
   {
     "region": "Piura",
-    "titular": "Thais Mejía",
+    "titular": "Paul Zamora",
     "suplente": "Paul Zamora"
   },
   {
     "region": "Cusco",
-    "titular": "María Huamán",
+    "titular": "Paul Zamora",
     "suplente": "Jorge Paredes"
   },
   {
     "region": "Loreto",
-    "titular": "Ana Rivas",
-    "suplente": "Luis Carranza"
+    "titular": "Elizabeth Ramos",
+    "suplente": "Paul Zamora"
+  },
+  {
+    "region": "Tacna",
+    "titular": "Elizabeth Ramos",
+    "suplente": "Paul Zamora"
+  },
+  {
+    "region": "Lima",
+    "titular": "César Mosquera",
+    "suplente": "Paul Zamora"
   }
 ]
